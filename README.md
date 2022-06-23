@@ -1,1 +1,1 @@
-# Zuri-django_crud
+# Zuri-django_crud yooo
